@@ -24,7 +24,7 @@
 -  main.go - The main application file that starts the server.
 -  handlers.go - HTTP request handlers.
 -  database.go - Initializing the connection to MongoDB.
--   static/ - Directory with static files (HTML, CSS, JS).
+-   static - Directory with static files (HTML, CSS, JS).
 
 # Contribute to the project 🤝
 - We will be glad to receive your contribution to the development of the project! If you have ideas for improving it, create an Issue or send a Pull Request.
