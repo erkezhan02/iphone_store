@@ -8,7 +8,7 @@
 -  Akhmetova Yerkezhan 
 
 # Goal of project 🚀
-- ** The goal of the Iphone Store project is to develop a convenient and intuitive web application for viewing and selecting iPhones. The main tasks include: **
+-  The goal of the Iphone Store project is to develop a convenient and intuitive web application for viewing and selecting iPhones. The main tasks include: 
 - **Ease of use**: Create a simple and clear interface that allows users to easily find and select iPhones.
 - **Flexibility**: Provide the ability to filter and sort results for accurate selection of models.
 - **Efficiency**: Ensure fast and stable operation of the application even when processing large amounts of data.
