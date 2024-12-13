@@ -1,28 +1,30 @@
 # iphone_store
-# Здравствуйте! Рады приветствовать вас в репозитории проекта Laptop Store. Это веб-приложение, разработанное на языке программирования Go (Golang), предназначенное для отображения каталога iPhone.
-# О проекте
-# Данный проект — это веб-приложение, позволяющее пользователям фильтровать и сортировать список айфонов. Для обработки запросов используется язык программирования Go, а для создания веб-интерфейса применяются HTML, CSS и JavaScript.
-# Участники
-# Ахметова Еркежан
-# Цель проекта 🚀
-# Цель проекта Iphone Store — разработать удобное и интуитивно понятное веб-приложение для просмотра и выбора iPhone. Основные задачи включают:
+# Hello! Welcome to the Laptop Store project repository. This is a web application developed in the Go (Golang) programming language, designed to display the iPhone catalog.
 
-- **Удобство использования**: Создать простой и понятный интерфейс, позволяющий пользователям легко находить и выбирать iPhone.  
-- **Гибкость**: Обеспечить возможность фильтрации и сортировки результатов для точного подбора моделей.  
-- **Эффективность**: Гарантировать быструю и стабильную работу приложения даже при обработке большого количества данных.
+# About project
+# This project is a web application that allows users to filter and sort a list of iPhones. The Go programming language is used to process requests, and HTML, CSS, and JavaScript are used to create the web interface.
 
-# Как использовать 🛠️
-# 1.Убедитесь, что у вас установлен Go. Если нет, установите Go.
-# 2.Клонируйте репозиторий: git clone https://github.com/yourusername/laptop-store.git
-# 3.Перейдите в каталог проекта: cd laptop-store
-# 4.Запустите приложение: go run main.go
-# 5.Откройте веб-браузер и перейдите по адресу http://localhost:5000
+# Team
+# Akhmetova Yerkezhan
 
-# Файловая структура 📂
-# main.go - Основной файл приложения, запускающий сервер.
-# handlers.go - Обработчики HTTP-запросов.
-# database.go - Инициализация подключения к MongoDB.
-# static/ - Каталог со статическими файлами (HTML, CSS, JS).
+# Goal of project 🚀
+# The goal of the Iphone Store project is to develop a convenient and intuitive web application for viewing and selecting iPhones. The main tasks include:
+- **Ease of use**: Create a simple and clear interface that allows users to easily find and select iPhones.
+- **Flexibility**: Provide the ability to filter and sort results for accurate selection of models.
+- **Efficiency**: Ensure fast and stable operation of the application even when processing large amounts of data.
+  
+# How to use 🛠️
+# 1.Make sure you have Go installed. If not, install Go.
+# 2.Clone the repository: git clone https://github.com/yourusername/laptop-store.git
+# 3.Change to the project directory: cd laptop-store
+# 4.Run the application: go run main.go
+# 5.Open a web browser and navigate to http://localhost:5000
 
-# Вклад в проект 🤝
-# Будем рады вашему вкладу в развитие проекта! Если у вас есть идеи по его улучшению, создайте Issue или отправьте Pull Request.
+# File structure 📂
+# main.go - The main application file that starts the server.
+# handlers.go - HTTP request handlers.
+# database.go - Initializing the connection to MongoDB.
+# static/ - Directory with static files (HTML, CSS, JS).
+
+# Contribute to the project 🤝
+# We will be glad to receive your contribution to the development of the project! If you have ideas for improving it, create an Issue or send a Pull Request.
