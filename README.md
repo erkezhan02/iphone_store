@@ -1,11 +1,11 @@
 # iphone_store
-# Hello! Welcome to the Laptop Store project repository. This is a web application developed in the Go (Golang) programming language, designed to display the iPhone catalog.
+-** Hello! Welcome to the Laptop Store project repository. This is a web application developed in the Go (Golang) programming language, designed to display the iPhone catalog.**
 
 # About project
-# This project is a web application that allows users to filter and sort a list of iPhones. The Go programming language is used to process requests, and HTML, CSS, and JavaScript are used to create the web interface.
+- ** This project is a web application that allows users to filter and sort a list of iPhones. The Go programming language is used to process requests, and HTML, CSS, and JavaScript are used to create the web interface.**
 
 # Team
-# Akhmetova Yerkezhan
+- ** Akhmetova Yerkezhan **
 
 # Goal of project 🚀
 # The goal of the Iphone Store project is to develop a convenient and intuitive web application for viewing and selecting iPhones. The main tasks include:
@@ -21,10 +21,10 @@
 - ** 5. ** Open a web browser and navigate to http://localhost:5000
 
 # File structure 📂
-# main.go - The main application file that starts the server.
-# handlers.go - HTTP request handlers.
-# database.go - Initializing the connection to MongoDB.
-# static/ - Directory with static files (HTML, CSS, JS).
+- ** main.go - The main application file that starts the server.**
+- ** handlers.go - HTTP request handlers.**
+- ** database.go - Initializing the connection to MongoDB.**
+-  ** static/ - Directory with static files (HTML, CSS, JS).**
 
 # Contribute to the project 🤝
 # We will be glad to receive your contribution to the development of the project! If you have ideas for improving it, create an Issue or send a Pull Request.
