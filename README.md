@@ -14,11 +14,11 @@
 - **Efficiency**: Ensure fast and stable operation of the application even when processing large amounts of data.
   
 # How to use 🛠️
-- ** 1.** Make sure you have Go installed. If not, install Go.
-- ** 2.** Clone the repository: git clone https://github.com/yourusername/laptop-store.git
-- ** 3.** Change to the project directory: cd laptop-store
-- ** 4.** Run the application: go run main.go
-- ** 5. ** Open a web browser and navigate to http://localhost:5000
+-  1. Make sure you have Go installed. If not, install Go.
+-  2. Clone the repository: git clone https://github.com/yourusername/laptop-store.git
+-  3. Change to the project directory: cd laptop-store
+-  4. Run the application: go run main.go
+-  5.  Open a web browser and navigate to http://localhost:5000
 
 # File structure 📂
 - ** main.go - The main application file that starts the server.**
@@ -27,4 +27,4 @@
 -  ** static/ - Directory with static files (HTML, CSS, JS).**
 
 # Contribute to the project 🤝
-# We will be glad to receive your contribution to the development of the project! If you have ideas for improving it, create an Issue or send a Pull Request.
+- We will be glad to receive your contribution to the development of the project! If you have ideas for improving it, create an Issue or send a Pull Request.
