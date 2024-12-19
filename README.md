@@ -18,7 +18,7 @@
 -  2. Clone the repository: git clone https://github.com/yourusername/laptop-store.git
 -  3. Change to the project directory: cd laptop-store
 -  4. Run the application: go run main.go
--  5.  Open a web browser and navigate to http://localhost:5000
+-  5.  Open a web browser and navigate to http://localhost:8080
 
 # File structure 📂
 -  main.go - The main application file that starts the server.
