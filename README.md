@@ -1,5 +1,5 @@
 # iphone_store  
-- Hello! Welcome to the Laptop Store project repository. This is a web application developed in the Go (Golang) programming language, designed to display the iPhone catalog.
+- Hello! Welcome to the Iphone Store project repository. This is a web application developed in the Go (Golang) programming language, designed to display the iPhone catalog.
 
 # About project
 -  This project is a web application that allows users to filter and sort a list of iPhones. The Go programming language is used to process requests, and HTML, CSS, and JavaScript are used to create the web interface.
