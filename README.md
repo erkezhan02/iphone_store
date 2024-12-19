@@ -1,4 +1,4 @@
-# iphone_store  
+# Iphone_store  
 - Hello! Welcome to the Iphone Store project repository. This is a web application developed in the Go (Golang) programming language, designed to display the iPhone catalog.
 
 # About project
