@@ -27,4 +27,4 @@
 -   static - Directory with static files (HTML, CSS, JS).
 
 # Contribute to the project 🤝
-- We will be glad to receive your contribution to the development of the project! If you have ideas for improving it, create an Issue or send a Pull Request.
+- I will be glad to receive your contribution to the development of the project! If you have ideas for improving it, create an Issue or send a Pull Request.
